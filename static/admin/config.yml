@@ -1,5 +1,6 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: 98lenvi/mom_blog
 
 local_backend: false # Optional if you want to use the local proxy mode
 
